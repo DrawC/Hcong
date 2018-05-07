@@ -1,2 +1,1 @@
-# Hcong
-自用学习
+//js study
